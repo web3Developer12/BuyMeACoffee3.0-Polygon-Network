@@ -1,0 +1,22 @@
+.file-avatar{
+    transition:.2s;
+}
+.file-avatar:hover{
+    opacity:0.4;
+}
+::-webkit-scrollbar {
+    width: 2px;
+    height: 4px;
+    cursor: pointer;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background:  #fdc20070;;
+}
+*{
+    scroll-behavior:smooth;
+}

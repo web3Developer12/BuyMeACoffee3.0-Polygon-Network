@@ -1,0 +1,14 @@
+@font-face {
+    font-family:"RomanAvenir";
+    src: url('./assets/fonts/Avenir/AvenirLTStd-Roman.otf');
+}
+
+@font-face {
+    font-family:"RomanBlack";
+    src: url('./assets/fonts/Avenir/AvenirLTStd-Black.otf');
+}
+
+@font-face {
+    font-family:"RomanBook";
+    src: url('./assets/fonts/Avenir/AvenirLTStd-Book.otf');
+}
